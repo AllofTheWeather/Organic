@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organic.Api", "Organic.Api\Organic.Api.csproj", "{4CB7E86C-D2AC-4146-A6AE-CF04D741125B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organic.Core", "Organic.Core\Organic.Core.csproj", "{05111BBD-C5A9-4302-BF4E-A47BA19279BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organic.Infrastructure", "Organic.Infrastructure\Organic.Infrastructure.csproj", "{C5122361-0CE8-4E7B-BA2E-E030996EAC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organic.Application", "Organic.Application\Organic.Application.csproj", "{F2FD0ADE-0495-4424-8E87-444DA1B21C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organic.Tests", "Organic.Tests\Organic.Tests.csproj", "{EFCB9089-E2AC-42D3-8A50-8A73249CBF7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organic.IntegrationTests", "Organic.IntegrationTests\Organic.IntegrationTests.csproj", "{1BB92F28-19AE-44B7-BCFD-D59BCA825473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB7E86C-D2AC-4146-A6AE-CF04D741125B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB7E86C-D2AC-4146-A6AE-CF04D741125B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB7E86C-D2AC-4146-A6AE-CF04D741125B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB7E86C-D2AC-4146-A6AE-CF04D741125B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05111BBD-C5A9-4302-BF4E-A47BA19279BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05111BBD-C5A9-4302-BF4E-A47BA19279BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05111BBD-C5A9-4302-BF4E-A47BA19279BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05111BBD-C5A9-4302-BF4E-A47BA19279BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5122361-0CE8-4E7B-BA2E-E030996EAC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5122361-0CE8-4E7B-BA2E-E030996EAC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5122361-0CE8-4E7B-BA2E-E030996EAC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5122361-0CE8-4E7B-BA2E-E030996EAC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FD0ADE-0495-4424-8E87-444DA1B21C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FD0ADE-0495-4424-8E87-444DA1B21C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FD0ADE-0495-4424-8E87-444DA1B21C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FD0ADE-0495-4424-8E87-444DA1B21C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCB9089-E2AC-42D3-8A50-8A73249CBF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCB9089-E2AC-42D3-8A50-8A73249CBF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCB9089-E2AC-42D3-8A50-8A73249CBF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCB9089-E2AC-42D3-8A50-8A73249CBF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB92F28-19AE-44B7-BCFD-D59BCA825473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB92F28-19AE-44B7-BCFD-D59BCA825473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB92F28-19AE-44B7-BCFD-D59BCA825473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB92F28-19AE-44B7-BCFD-D59BCA825473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

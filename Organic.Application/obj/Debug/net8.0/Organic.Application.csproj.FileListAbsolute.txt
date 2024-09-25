@@ -1,0 +1,17 @@
+C:\personal coding projects\Organic\Organic.Application\bin\Debug\net8.0\Organic.Application.deps.json
+C:\personal coding projects\Organic\Organic.Application\bin\Debug\net8.0\Organic.Application.dll
+C:\personal coding projects\Organic\Organic.Application\bin\Debug\net8.0\Organic.Application.pdb
+C:\personal coding projects\Organic\Organic.Application\bin\Debug\net8.0\Organic.Core.dll
+C:\personal coding projects\Organic\Organic.Application\bin\Debug\net8.0\Organic.Infrastructure.dll
+C:\personal coding projects\Organic\Organic.Application\bin\Debug\net8.0\Organic.Core.pdb
+C:\personal coding projects\Organic\Organic.Application\bin\Debug\net8.0\Organic.Infrastructure.pdb
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\Organic.Application.csproj.AssemblyReference.cache
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\Organic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\Organic.Application.AssemblyInfoInputs.cache
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\Organic.Application.AssemblyInfo.cs
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\Organic.Application.csproj.CoreCompileInputs.cache
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\Organic..54C66BE7.Up2Date
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\Organic.Application.dll
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\refint\Organic.Application.dll
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\Organic.Application.pdb
+C:\personal coding projects\Organic\Organic.Application\obj\Debug\net8.0\ref\Organic.Application.dll

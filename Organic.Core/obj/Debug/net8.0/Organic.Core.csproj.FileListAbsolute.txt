@@ -1,0 +1,12 @@
+C:\personal coding projects\Organic\Organic.Core\bin\Debug\net8.0\Organic.Core.deps.json
+C:\personal coding projects\Organic\Organic.Core\bin\Debug\net8.0\Organic.Core.dll
+C:\personal coding projects\Organic\Organic.Core\bin\Debug\net8.0\Organic.Core.pdb
+C:\personal coding projects\Organic\Organic.Core\obj\Debug\net8.0\Organic.Core.csproj.AssemblyReference.cache
+C:\personal coding projects\Organic\Organic.Core\obj\Debug\net8.0\Organic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal coding projects\Organic\Organic.Core\obj\Debug\net8.0\Organic.Core.AssemblyInfoInputs.cache
+C:\personal coding projects\Organic\Organic.Core\obj\Debug\net8.0\Organic.Core.AssemblyInfo.cs
+C:\personal coding projects\Organic\Organic.Core\obj\Debug\net8.0\Organic.Core.csproj.CoreCompileInputs.cache
+C:\personal coding projects\Organic\Organic.Core\obj\Debug\net8.0\Organic.Core.dll
+C:\personal coding projects\Organic\Organic.Core\obj\Debug\net8.0\refint\Organic.Core.dll
+C:\personal coding projects\Organic\Organic.Core\obj\Debug\net8.0\Organic.Core.pdb
+C:\personal coding projects\Organic\Organic.Core\obj\Debug\net8.0\ref\Organic.Core.dll

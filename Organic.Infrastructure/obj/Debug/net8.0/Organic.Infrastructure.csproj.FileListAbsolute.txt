@@ -1,0 +1,17 @@
+C:\personal coding projects\Organic\Organic.Infrastructure\bin\Debug\net8.0\Organic.Infrastructure.deps.json
+C:\personal coding projects\Organic\Organic.Infrastructure\bin\Debug\net8.0\Organic.Infrastructure.runtimeconfig.json
+C:\personal coding projects\Organic\Organic.Infrastructure\bin\Debug\net8.0\Organic.Infrastructure.dll
+C:\personal coding projects\Organic\Organic.Infrastructure\bin\Debug\net8.0\Organic.Infrastructure.pdb
+C:\personal coding projects\Organic\Organic.Infrastructure\bin\Debug\net8.0\Organic.Core.dll
+C:\personal coding projects\Organic\Organic.Infrastructure\bin\Debug\net8.0\Organic.Core.pdb
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\Organic.Infrastructure.csproj.AssemblyReference.cache
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\Organic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\Organic.Infrastructure.AssemblyInfoInputs.cache
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\Organic.Infrastructure.AssemblyInfo.cs
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\Organic.Infrastructure.csproj.CoreCompileInputs.cache
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\Organic..F0E6EFE6.Up2Date
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\Organic.Infrastructure.dll
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\refint\Organic.Infrastructure.dll
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\Organic.Infrastructure.pdb
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\Organic.Infrastructure.genruntimeconfig.cache
+C:\personal coding projects\Organic\Organic.Infrastructure\obj\Debug\net8.0\ref\Organic.Infrastructure.dll
