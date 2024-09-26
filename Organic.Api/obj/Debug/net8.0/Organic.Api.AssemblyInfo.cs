@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Organic.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdaeb182cb25f043576391f1cf61c7f0e98f534b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Organic.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Organic.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -159,3 +159,4 @@ C:\personal coding projects\Organic\Organic.Api\obj\Debug\net8.0\refint\Organic.
 C:\personal coding projects\Organic\Organic.Api\obj\Debug\net8.0\Organic.Api.pdb
 C:\personal coding projects\Organic\Organic.Api\obj\Debug\net8.0\Organic.Api.genruntimeconfig.cache
 C:\personal coding projects\Organic\Organic.Api\obj\Debug\net8.0\ref\Organic.Api.dll
+C:\personal coding projects\Organic\Organic.Api\obj\Debug\net8.0\Organic.Api.sourcelink.json
